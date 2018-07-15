@@ -1,0 +1,32 @@
+.orange{
+	background-color: orange;
+}
+
+
+main .top {
+	margin-bottom: 40px;
+}
+.Sbox{
+	height:90px;
+}
+
+.box{
+	border:1px solid gainsboro;
+	display: block;
+	margin-bottom:20px;
+}
+
+img{
+	width:100%;
+	size: contain;
+}
+
+.des{
+	padding:20px;
+}
+
+.love{
+   padding: 20px;
+	margin:  auto;
+
+}
